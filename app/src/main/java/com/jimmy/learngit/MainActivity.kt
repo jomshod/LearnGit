@@ -26,5 +26,5 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun MyApp(modifier: Modifier = Modifier) {
-    Text("hello user")
+    AppNavigation()
 }
